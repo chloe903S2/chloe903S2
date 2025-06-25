@@ -19,7 +19,7 @@
 ## 💖 What I Love
 
 <div align="center">
-  🦖 공룡 &nbsp; 🌸 꽃 &nbsp; 🎶 음악 &nbsp; 🐈 고양이 &nbsp; ❤️ 봄  
+ 🦖 공룡 &nbsp;  ⚾야구 &nbsp; 🌸 꽃 &nbsp; 🎶 음악 &nbsp; 🐈 고양이 &nbsp; ❤️ 봄  
 </div>
 
 
