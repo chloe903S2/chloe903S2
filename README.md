@@ -35,6 +35,27 @@
 
 ---
 
+## 🧠 My Personality
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MBTI-ENFJ-yellowgreen?style=flat&logo=personality-insights&logoColor=white" />
+</p>
+
+> 저는 ENFJ, 사람들과 소통하고 팀워크를 좋아하는 리더 타입이에요!  
+> 긍정적이고 사교적이며, 늘 주변 사람에게 좋은 영향력을 끼치려 노력해요.
+
+---
+
+## 🌟 My Vibe
+
+- 사람들과 어울리는 걸 좋아해요 🤝  
+- 계획을 세우고 이뤄나가는 걸 즐깁니다 📋  
+- 때론 감성적이고, 때론 논리적이에요 💭  
+- 변화를 두려워하지 않고 도전합니다 🚀
+
+---
+
+
 ## 🔧 Tech Stack
 
 | 분야         | 기술 |
