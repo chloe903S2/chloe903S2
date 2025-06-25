@@ -39,11 +39,11 @@
 
 | 분야         | 기술 |
 |--------------|------|
-| 💻 Language  | `C`, `Python`, `HTML`, `CSS` |
+| 💻 Language  | `C`, `Python`, Java |
 | 🧠 Algorithm | Sorting, Greedy, Approximation (배우는 중!) |
 | 🖌 Design    | `Figma`, `Canva` |
 | 📁 Tools     | `VS Code`, `Git`, `GitHub`, `Notion` |
-| 🌍 Language  | 한국어 🇰🇷 / 영어 🇺🇸 / 필리핀어 🇵🇭 (어학연수 3회) |
+| 🌍 Language  | 한국어 🇰🇷 / 영어 🇺🇸 |
 
 
 ---
@@ -61,6 +61,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloe903S2&layout=compact&theme=tokyonight" height="150"/>
 </div>
 
+---
+
+## 📱 Contact
+
+<p align="center">
+  <a href="https://www.instagram.com/eunsoo.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-ffb8d1?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://eunsooblog.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-a8b7ff?style=flat&logo=tistory&logoColor=white"/></a>
+</p>
 ---
 
 ## 💬 한마디
