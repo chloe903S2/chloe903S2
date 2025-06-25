@@ -1,58 +1,79 @@
-<!-- 프로필 상단 배너 -->
+<!-- 헤더 배너 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ffb8d1,100:a8b7ff&height=160&section=header&text=Hello%20I'm%20Eunsoo!💖&fontSize=45&fontAlignY=35&desc=Creative%20Dev%20with%20a%20Heart&descAlignY=55&fontColor=ff6699&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc8dd,100:a8b7ff&height=160&section=header&text=Hi!%20I'm%20Eunsoo💖&fontSize=45&fontAlign=70&fontColor=ffffff" />
+</div>
+
+<!-- 인사 -->
+<div align="center">
+  
+  <h3>🌼 따뜻한 감성과 날카로운 로직을 동시에 가진 개발자 지망생 🌼</h3>
+
+  <p>“배움에 진심이고, 성장에 욕심 있는 사람입니다.”</p>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF99B4&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student.;Future+Information+Teacher.;Creative+Maker.;I+never+give+up." />
+
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## ✨ About Me
 
-안녕하세요!  
-저는 열정과 감성으로 무장한 **컴퓨터공학과 2학년 은수**입니다 💫  
-**기획, 개발, 디자인** 모두 좋아하고,  
-무언가를 ‘만드는 것’에 진심이에요.
-
-🌟 **자기주도 학습력**  
-🌟 **빠른 흡수력**  
-🌟 **다정한 리더십**  
-🌟 **팀 분위기메이커**  
-> “제가 하면 꼭 됩니다.” 라는 말을 몸소 증명 중! 💪
+- 🎓 컴퓨터공학과 2학년  
+- 🏫 정보 교사라는 꿈을 향해 달리는 중  
+- 💬 C 언어로 CLI 프로젝트를 만드는 중  
+- 🧠 생물·심리·신화까지 폭넓은 교양 덕후  
+- 😺 고양이를 키우며 말랑한 하루를 쌓는 중
 
 ---
 
-## 💕 좋아하는 것들
-
-<p align="center">
-  🦖 공룡 &nbsp;&nbsp; 🌸 꽃 &nbsp;&nbsp; 🎶 음악 &nbsp;&nbsp; 🐈 고양이 &nbsp;&nbsp; ❤️ 봄  
-</p>
-
----
-
-## 🛠 Skills
-
-| 분야 | 기술 스택 |
-|------|-----------|
-| 💻 Language | `C` `Python` `HTML` `CSS` |
-| 🎨 Design | `Figma` `Canva` |
-| 📊 협업/기획 | `Notion` `Git` `Github` |
-| 💬 언어 | `English` `Korean` `필리핀에서 공부한 영어 감성` 🇵🇭 |
-
----
-
-## 🔥 프로젝트 예고
-
-- 🧠 멘탈 케어 챗봇 CLI (C언어 기반 감정분석 + 물방울 시스템)
-- 🧩 영어 단어 퀴즈 + 집중 타이머 프로그램
-- 👩‍🏫 정보 교과 선생님이 되는 그날까지, 꾸준한 CS 정리 중!
-
----
-
-## 🌱 One more thing...
-
-> 지금의 나는 아직 **성장 중**이지만,  
-> 무섭게 배우고, 빠르게 움직이고 있어요.  
-> **"하고 싶은 건 꼭 해내는 사람"**, 그게 저예요 💎
+## 💖 What I Love
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FC8BB2&center=true&vCenter=true&width=435&lines=I+love+creating.;I+never+give+up.;I'm+Eunsoo+%E2%9C%A8" />
+  🦖 공룡 &nbsp; 🌸 꽃 &nbsp; 🎶 음악 &nbsp; 🐈 고양이 &nbsp; ❤️ 봄  
+</div>
+
+---
+
+## 🔧 Tech Stack
+
+| 분야         | 기술 |
+|--------------|------|
+| 💻 Language  | `C`, `Python`, `HTML`, `CSS` |
+| 🧠 Algorithm | Sorting, Greedy, Approximation (배우는 중!) |
+| 🖌 Design    | `Figma`, `Canva` |
+| 📁 Tools     | `VS Code`, `Git`, `GitHub`, `Notion` |
+| 🌍 Language  | 한국어 🇰🇷 / 영어 🇺🇸 / 필리핀어 🇵🇭 (어학연수 3회) |
+
+
+---
+
+## 🏆 Highlights
+
+- 👩‍🎓 반장 6년 + 학생회 임원 6년  
+- 📚 사범대 친구보다 성적 좋았던 정보 교사 지망생  
+- 🏆 봉사 시간 130시간 이상 (코로나 기간 포함)  
+- 🌍 유럽/미국 한 달 여행, 필리핀 어학연수 3회  
+- 🧩 혼자서도 끈기 있게 기획, 개발, 발표까지 쭉 진행 가능!
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chloe903S2&show_icons=true&theme=tokyonight&hide=prs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloe903S2&layout=compact&theme=tokyonight" height="150"/>
+</div>
+
+---
+
+## 💬 한마디
+
+> **"하고 싶은 건 절대 포기하지 않습니다."**  
+> 개발이든 교사든, 감정이든 학문이든  
+> 저는 '사람'을 위한 기술을 만들고 싶어요.
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8b7ff,100:ffc8dd&height=100&section=footer" />
 </div>
