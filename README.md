@@ -66,10 +66,10 @@
 ## 📱 Contact
 
 <p align="center">
-  <a href="https://www.instagram.com/eunsoo.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-ffb8d1?style=flat&logo=instagram&logoColor=white"/></a>
-  <a href="https://eunsooblog.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-a8b7ff?style=flat&logo=tistory&logoColor=white"/></a>
+  <a href="https://www.instagram.com/dms2tn" target="_blank"><img src="https://img.shields.io/badge/Instagram-ffb8d1?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://blog.naver.com/chloe4822" target="_blank"><img src="https://img.shields.io/badge/Blog-a8b7ff?style=flat&logo=tistory&logoColor=white"/></a>
 </p>
----
+
 
 ## 💬 한마디
 
