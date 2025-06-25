@@ -1,18 +1,18 @@
-## Hi there 👋
+# 👋 Hello world! I'm Eunsoo!
 
-<!--
-**chloe903S2/chloe903S2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ffb8d1,100:a8b7ff&height=150&text=Hello%20world!%20I'm%20Eunsoo!&fontColor=ff8080&fontSize=50&fontAlign=70&desc=Welcome%20to%20my%20GitHub%20Profile!&descSize=20&descAlign=80" />
+안녕하세요! 깃허브에 오신 걸 환영해요.  
+저는 새로운 걸 배우는 걸 좋아하고, 아래와 같은 것들을 좋아해요 💖
 
-  <br /><br />
-  
-  <h2>💖 좋아하는 것을 좋아해요 💖</h2>
-  
-  <p align="center" style="font-size: 18px;">
-    🦖 공룡 &nbsp;｜&nbsp; 🌸 꽃 &nbsp;｜&nbsp; 🎶 음악 &nbsp;｜&nbsp; 🐈 고양이 &nbsp;｜&nbsp; ❤️ 봄  
-  </p>
+## 🌟 좋아하는 것들
 
-</div>
+- 🦖 공룡  
+- 🌸 꽃  
+- 🎶 음악  
+- 🐈 고양이  
+- ❤️ 봄
+
+---
+
+감사합니다 🙇‍♀️  
+저의 깃허브를 구경해 주세요!
 
