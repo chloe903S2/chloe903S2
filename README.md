@@ -1,8 +1,7 @@
-<!-- 헤더 배너 -->
+<!-- 프로필 상단 배너 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc8dd,100:a8b7ff&height=160&section=header&text=Hi!%20I'm%20Eunsoo💖&fontSize=45&fontAlign=70&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ffb8d1,100:a8b7ff&height=160&section=header&text=Hello%20I'm%20Eunsoo!💖&fontSize=45&fontAlignY=35&desc=Creative%20Dev%20with%20a%20Heart&descAlignY=55&fontColor=ff6699&descSize=20" />
 </div>
-
 <!-- 인사 -->
 <div align="center">
   
@@ -14,6 +13,16 @@
 
 </div>
 
+
+---
+
+## 💖 What I Love
+
+<div align="center">
+  🦖 공룡 &nbsp; 🌸 꽃 &nbsp; 🎶 음악 &nbsp; 🐈 고양이 &nbsp; ❤️ 봄  
+</div>
+
+
 ---
 
 ## ✨ About Me
@@ -23,14 +32,6 @@
 - 💬 C 언어로 CLI 프로젝트를 만드는 중  
 - 🧠 생물·심리·신화까지 폭넓은 교양 덕후  
 - 😺 고양이를 키우며 말랑한 하루를 쌓는 중
-
----
-
-## 💖 What I Love
-
-<div align="center">
-  🦖 공룡 &nbsp; 🌸 꽃 &nbsp; 🎶 음악 &nbsp; 🐈 고양이 &nbsp; ❤️ 봄  
-</div>
 
 ---
 
@@ -49,10 +50,6 @@
 
 ## 🏆 Highlights
 
-- 👩‍🎓 반장 6년 + 학생회 임원 6년  
-- 📚 사범대 친구보다 성적 좋았던 정보 교사 지망생  
-- 🏆 봉사 시간 130시간 이상 (코로나 기간 포함)  
-- 🌍 유럽/미국 한 달 여행, 필리핀 어학연수 3회  
 - 🧩 혼자서도 끈기 있게 기획, 개발, 발표까지 쭉 진행 가능!
 
 ---
